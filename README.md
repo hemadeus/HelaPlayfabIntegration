@@ -28,7 +28,8 @@ I was trying to find example using the ue5 sdk, or using generative AI but both 
 
 
 ## Example
-<video controls src="videos/2025-Demo-PlayfabIntegration.mp4" title="Demo" title="Title"></video>
+[![Demo-PlayfabIntegration](https://img.youtube.com/vi/GMJuzZAlCno/0.jpg)](https://www.youtube.com/watch?v=GMJuzZAlCno)
+
 
 ## Project Structure
 
