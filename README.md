@@ -179,4 +179,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Support
 
-For support, contact [HelaStudio](https://helastudio.com) or visit the [PlayFab documentation](https://learn.microsoft.com/en-us/gaming/playfab/).
+For support, create issues or visit the [PlayFab documentation](https://learn.microsoft.com/en-us/gaming/playfab/).
